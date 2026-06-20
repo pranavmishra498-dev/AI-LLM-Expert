@@ -14,3 +14,5 @@ AI &amp; ML Chatbot built using Python and Gemini API that provides accurate ans
 -STREAMLIT LEARNING
 -MACHINE LEARNING
 -NLP
+##AUTHOR 
+PRANAV MISHRA
