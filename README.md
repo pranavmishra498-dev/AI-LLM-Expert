@@ -20,4 +20,6 @@ PRANAV MISHRA
 
 ## PROJECT DEMO
 <IMG 
-https://github.com/pranavmishra498-dev/AI-LLM-Expert/blob/main/Screenshot%202026-06-20%20194122.png>
+## Project Demo
+
+![Project Screenshot](Screenshot%202026-06-20%20195256.png)>
