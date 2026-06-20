@@ -16,3 +16,8 @@ AI &amp; ML Chatbot built using Python and Gemini API that provides accurate ans
 -NLP
 ##AUTHOR 
 PRANAV MISHRA
+
+
+## PROJECT DEMO
+<IMG 
+"C:\Users\prana\Pictures\Screenshots\Screenshot 2026-06-20 195256.png">
