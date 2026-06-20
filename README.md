@@ -19,4 +19,4 @@ PRANAV MISHRA
 
 
 ## Project Demo
-![Project Screenshot](Screenshot%202026-06-20%20195256.png)>
+![Project Screenshot](Screenshot%202026-06-20%20195256.png)
